@@ -10,5 +10,6 @@
 
  <jsp:useBean id="p1"  class="bean1.User"  />
   <jsp:getProperty name="p1" property="name" />
+  ccccc
 </body>
 </html>
